@@ -404,14 +404,14 @@ Novara;malattie della cute e del tessuto sottocutaneo;2017;15
 Novara;malformazioni congenite ed anomalie cromosomiche;2015;11
 Novara;malformazioni congenite ed anomalie cromosomiche;2016;10
 Novara;malformazioni congenite ed anomalie cromosomiche;2017;4
-Valle d'Aosta / Vallée d'Aoste;malattie dell'apparato digerente;2015;68
-Valle d'Aosta / Vallée d'Aoste;malattie dell'apparato digerente;2016;54
+Aostra;malattie dell'apparato digerente;2015;68
+Aostra;malattie dell'apparato digerente;2016;54
 Aosta;malattie dell'apparato digerente;2017;61
 Aosta;tumori;2015;416
 Aosta;tumori;2016;410
 Aosta;tumori;2017;392
-Valle d'Aosta / Vallée d'Aoste;disturbi psichici e comportamentali;2015;97
-Valle d'Aosta / Vallée d'Aoste;disturbi psichici e comportamentali;2016;104
+Aostra;disturbi psichici e comportamentali;2015;97
+Aostra;disturbi psichici e comportamentali;2016;104
 Aosta;disturbi psichici e comportamentali;2017;141
 Alessandria;tumori;2015;1676
 Alessandria;tumori;2016;1714
@@ -428,11 +428,11 @@ Alessandria;disturbi psichici e comportamentali;2017;284
 Alessandria;malattie dell'apparato digerente;2015;204
 Alessandria;malattie dell'apparato digerente;2016;225
 Alessandria;malattie dell'apparato digerente;2017;199
-Valle d'Aosta / Vallée d'Aoste;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;9
-Valle d'Aosta / Vallée d'Aoste;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;6
+Aostra;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;9
+Aostra;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;6
 Aosta;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2017;2
-Valle d'Aosta / Vallée d'Aoste;malattie del sistema osteomuscolare e del tessuto connettivo;2015;9
-Valle d'Aosta / Vallée d'Aoste;malattie del sistema osteomuscolare e del tessuto connettivo;2016;6
+Aostra;malattie del sistema osteomuscolare e del tessuto connettivo;2015;9
+Aostra;malattie del sistema osteomuscolare e del tessuto connettivo;2016;6
 Aosta;malattie del sistema osteomuscolare e del tessuto connettivo;2017;11
 Asti;alcune malattie infettive e parassitarie;2015;91
 Asti;alcune malattie infettive e parassitarie;2016;72
@@ -440,11 +440,11 @@ Asti;alcune malattie infettive e parassitarie;2017;83
 Asti;malattie della cute e del tessuto sottocutaneo;2015;8
 Asti;malattie della cute e del tessuto sottocutaneo;2016;9
 Asti;malattie della cute e del tessuto sottocutaneo;2017;10
-Valle d'Aosta / Vallée d'Aoste;malattie del sistema circolatorio;2015;462
-Valle d'Aosta / Vallée d'Aoste;malattie del sistema circolatorio;2016;431
+Aostra;malattie del sistema circolatorio;2015;462
+Aostra;malattie del sistema circolatorio;2016;431
 Aosta;malattie del sistema circolatorio;2017;459
-Valle d'Aosta / Vallée d'Aoste;cause esterne di traumatismo e avvelenamento;2015;70
-Valle d'Aosta / Vallée d'Aoste;cause esterne di traumatismo e avvelenamento;2016;57
+Aostra;cause esterne di traumatismo e avvelenamento;2015;70
+Aostra;cause esterne di traumatismo e avvelenamento;2016;57
 Aosta;cause esterne di traumatismo e avvelenamento;2017;47
 Cuneo;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;25
 Cuneo;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;27
@@ -452,8 +452,8 @@ Cuneo;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del si
 Cuneo;malattie del sistema osteomuscolare e del tessuto connettivo;2015;44
 Cuneo;malattie del sistema osteomuscolare e del tessuto connettivo;2016;39
 Cuneo;malattie del sistema osteomuscolare e del tessuto connettivo;2017;55
-Valle d'Aosta / Vallée d'Aoste;malattie del sistema respiratorio;2015;139
-Valle d'Aosta / Vallée d'Aoste;malattie del sistema respiratorio;2016;127
+Aostra;malattie del sistema respiratorio;2015;139
+Aostra;malattie del sistema respiratorio;2016;127
 Aosta;malattie del sistema respiratorio;2017;141
 Asti;malformazioni congenite ed anomalie cromosomiche;2015;6
 Asti;malformazioni congenite ed anomalie cromosomiche;2016;2
@@ -473,14 +473,14 @@ Alessandria;malattie del sistema osteomuscolare e del tessuto connettivo;2017;44
 Alessandria;"sintomi; segni; risultati anomali e cause mal definite";2015;255
 Alessandria;"sintomi; segni; risultati anomali e cause mal definite";2016;257
 Alessandria;"sintomi; segni; risultati anomali e cause mal definite";2017;236
-Valle d'Aosta / Vallée d'Aoste;malattie del sistema nervoso e degli organi di senso;2015;62
-Valle d'Aosta / Vallée d'Aoste;malattie del sistema nervoso e degli organi di senso;2016;53
+Aostra;malattie del sistema nervoso e degli organi di senso;2015;62
+Aostra;malattie del sistema nervoso e degli organi di senso;2016;53
 Aosta;malattie del sistema nervoso e degli organi di senso;2017;67
-Valle d'Aosta / Vallée d'Aoste;"sintomi; segni; risultati anomali e cause mal definite";2015;31
-Valle d'Aosta / Vallée d'Aoste;"sintomi; segni; risultati anomali e cause mal definite";2016;35
+Aostra;"sintomi; segni; risultati anomali e cause mal definite";2015;31
+Aostra;"sintomi; segni; risultati anomali e cause mal definite";2016;35
 Aosta;"sintomi; segni; risultati anomali e cause mal definite";2017;31
-Valle d'Aosta / Vallée d'Aoste;malformazioni congenite ed anomalie cromosomiche;2015;3
-Valle d'Aosta / Vallée d'Aoste;malformazioni congenite ed anomalie cromosomiche;2016;3
+Aostra;malformazioni congenite ed anomalie cromosomiche;2015;3
+Aostra;malformazioni congenite ed anomalie cromosomiche;2016;3
 Imperia;disturbi psichici e comportamentali;2015;121
 Imperia;disturbi psichici e comportamentali;2016;103
 Imperia;disturbi psichici e comportamentali;2017;106
@@ -510,8 +510,8 @@ Imperia;cause esterne di traumatismo e avvelenamento;2017;119
 Imperia;malformazioni congenite ed anomalie cromosomiche;2015;5
 Imperia;malformazioni congenite ed anomalie cromosomiche;2016;9
 Imperia;malformazioni congenite ed anomalie cromosomiche;2017;4
-Valle d'Aosta / Vallée d'Aoste;alcune malattie infettive e parassitarie;2015;33
-Valle d'Aosta / Vallée d'Aoste;alcune malattie infettive e parassitarie;2016;19
+Aostra;alcune malattie infettive e parassitarie;2015;33
+Aostra;alcune malattie infettive e parassitarie;2016;19
 Aosta;alcune malattie infettive e parassitarie;2017;27
 Savona;malattie del sistema nervoso e degli organi di senso;2015;216
 Savona;malattie del sistema nervoso e degli organi di senso;2016;203
@@ -519,8 +519,8 @@ Savona;malattie del sistema nervoso e degli organi di senso;2017;224
 Savona;malattie del sistema respiratorio;2015;295
 Savona;malattie del sistema respiratorio;2016;313
 Savona;malattie del sistema respiratorio;2017;335
-Valle d'Aosta / Vallée d'Aoste;malattie della cute e del tessuto sottocutaneo;2015;5
-Valle d'Aosta / Vallée d'Aoste;malattie della cute e del tessuto sottocutaneo;2016;3
+Aostra;malattie della cute e del tessuto sottocutaneo;2015;5
+Aostra;malattie della cute e del tessuto sottocutaneo;2016;3
 Aosta;malattie della cute e del tessuto sottocutaneo;2017;2
 Savona;"sintomi; segni; risultati anomali e cause mal definite";2015;114
 Savona;"sintomi; segni; risultati anomali e cause mal definite";2016;110
@@ -1115,44 +1115,44 @@ Lodi;malattie del sistema nervoso e degli organi di senso;2017;129
 Lodi;"sintomi; segni; risultati anomali e cause mal definite";2015;48
 Lodi;"sintomi; segni; risultati anomali e cause mal definite";2016;58
 Lodi;"sintomi; segni; risultati anomali e cause mal definite";2017;47
-Bolzano / Bozen;alcune malattie infettive e parassitarie;2015;83
-Bolzano / Bozen;alcune malattie infettive e parassitarie;2016;53
+Bolzano;alcune malattie infettive e parassitarie;2015;83
+Bolzano;alcune malattie infettive e parassitarie;2016;53
 Bolzano;alcune malattie infettive e parassitarie;2017;73
 Bolzano;tumori;2015;1173
 Bolzano;tumori;2016;1265
 Bolzano;tumori;2017;1189
-Bolzano / Bozen;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;11
-Bolzano / Bozen;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;15
+Bolzano;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;11
+Bolzano;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;15
 Bolzano;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2017;13
-Bolzano / Bozen;disturbi psichici e comportamentali;2015;167
-Bolzano / Bozen;disturbi psichici e comportamentali;2016;198
+Bolzano;disturbi psichici e comportamentali;2015;167
+Bolzano;disturbi psichici e comportamentali;2016;198
 Bolzano;disturbi psichici e comportamentali;2017;230
-Bolzano / Bozen;malattie del sistema nervoso e degli organi di senso;2015;233
-Bolzano / Bozen;malattie del sistema nervoso e degli organi di senso;2016;258
+Bolzano;malattie del sistema nervoso e degli organi di senso;2015;233
+Bolzano;malattie del sistema nervoso e degli organi di senso;2016;258
 Bolzano;malattie del sistema nervoso e degli organi di senso;2017;265
-Bolzano / Bozen;malattie del sistema circolatorio;2015;1632
-Bolzano / Bozen;malattie del sistema circolatorio;2016;1481
+Bolzano;malattie del sistema circolatorio;2015;1632
+Bolzano;malattie del sistema circolatorio;2016;1481
 Bolzano;malattie del sistema circolatorio;2017;1587
-Bolzano / Bozen;malattie del sistema respiratorio;2015;377
-Bolzano / Bozen;malattie del sistema respiratorio;2016;297
+Bolzano;malattie del sistema respiratorio;2015;377
+Bolzano;malattie del sistema respiratorio;2016;297
 Bolzano;malattie del sistema respiratorio;2017;325
-Bolzano / Bozen;malattie dell'apparato digerente;2015;148
-Bolzano / Bozen;malattie dell'apparato digerente;2016;164
+Bolzano;malattie dell'apparato digerente;2015;148
+Bolzano;malattie dell'apparato digerente;2016;164
 Bolzano;malattie dell'apparato digerente;2017;164
-Bolzano / Bozen;malattie del sistema osteomuscolare e del tessuto connettivo;2015;14
-Bolzano / Bozen;malattie del sistema osteomuscolare e del tessuto connettivo;2016;31
+Bolzano;malattie del sistema osteomuscolare e del tessuto connettivo;2015;14
+Bolzano;malattie del sistema osteomuscolare e del tessuto connettivo;2016;31
 Bolzano;malattie del sistema osteomuscolare e del tessuto connettivo;2017;33
-Bolzano / Bozen;alcune condizioni morbose che hanno origine nel periodo perinatale;2015;7
-Bolzano / Bozen;alcune condizioni morbose che hanno origine nel periodo perinatale;2016;10
+Bolzano;alcune condizioni morbose che hanno origine nel periodo perinatale;2015;7
+Bolzano;alcune condizioni morbose che hanno origine nel periodo perinatale;2016;10
 Bolzano;alcune condizioni morbose che hanno origine nel periodo perinatale;2017;5
-Bolzano / Bozen;malformazioni congenite ed anomalie cromosomiche;2015;11
-Bolzano / Bozen;malformazioni congenite ed anomalie cromosomiche;2016;13
+Bolzano;malformazioni congenite ed anomalie cromosomiche;2015;11
+Bolzano;malformazioni congenite ed anomalie cromosomiche;2016;13
 Bolzano;malformazioni congenite ed anomalie cromosomiche;2017;14
-Bolzano / Bozen;"sintomi; segni; risultati anomali e cause mal definite";2015;28
-Bolzano / Bozen;"sintomi; segni; risultati anomali e cause mal definite";2016;36
+Bolzano;"sintomi; segni; risultati anomali e cause mal definite";2015;28
+Bolzano;"sintomi; segni; risultati anomali e cause mal definite";2016;36
 Bolzano;"sintomi; segni; risultati anomali e cause mal definite";2017;38
-Bolzano / Bozen;cause esterne di traumatismo e avvelenamento;2015;229
-Bolzano / Bozen;cause esterne di traumatismo e avvelenamento;2016;243
+Bolzano;cause esterne di traumatismo e avvelenamento;2015;229
+Bolzano;cause esterne di traumatismo e avvelenamento;2016;243
 Bolzano;cause esterne di traumatismo e avvelenamento;2017;220
 Trento;alcune malattie infettive e parassitarie;2015;111
 Trento;alcune malattie infettive e parassitarie;2016;86
@@ -1492,71 +1492,71 @@ Rovigo;cause esterne di traumatismo e avvelenamento;2017;102
 La Spezia;malattie del sistema respiratorio;2015;232
 La Spezia;malattie del sistema respiratorio;2016;235
 La Spezia;malattie del sistema respiratorio;2017;284
-Friuli-Venezia Giulia;alcune malattie infettive e parassitarie;2015;365
-Friuli-Venezia Giulia;alcune malattie infettive e parassitarie;2016;290
+;;;
+;;;
 Pordenone;alcune malattie infettive e parassitarie;2015;69
 Pordenone;alcune malattie infettive e parassitarie;2016;55
 Pordenone;alcune malattie infettive e parassitarie;2017;60
 Pordenone;tumori;2015;934
 Pordenone;tumori;2016;950
 Pordenone;tumori;2017;918
-Friuli-Venezia Giulia;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;81
-Friuli-Venezia Giulia;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;65
+;;;
+;;;
 Pordenone;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;14
 Pordenone;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;9
 Pordenone;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2017;8
-Friuli-Venezia Giulia;disturbi psichici e comportamentali;2015;563
-Friuli-Venezia Giulia;disturbi psichici e comportamentali;2016;564
+;;;
+;;;
 Pordenone;disturbi psichici e comportamentali;2015;99
 Pordenone;disturbi psichici e comportamentali;2016;106
 Pordenone;disturbi psichici e comportamentali;2017;118
-Friuli-Venezia Giulia;malattie del sistema nervoso e degli organi di senso;2015;499
-Friuli-Venezia Giulia;malattie del sistema nervoso e degli organi di senso;2016;524
+;;;
+;;;
 Pordenone;malattie del sistema nervoso e degli organi di senso;2015;94
 Pordenone;malattie del sistema nervoso e degli organi di senso;2016;94
 Pordenone;malattie del sistema nervoso e degli organi di senso;2017;117
-Friuli-Venezia Giulia;malattie del sistema circolatorio;2015;5303
-Friuli-Venezia Giulia;malattie del sistema circolatorio;2016;4961
+;;;
+;;;
 Pordenone;malattie del sistema circolatorio;2015;1170
 Pordenone;malattie del sistema circolatorio;2016;1123
 Pordenone;malattie del sistema circolatorio;2017;1261
-Friuli-Venezia Giulia;malattie del sistema respiratorio;2015;1274
-Friuli-Venezia Giulia;malattie del sistema respiratorio;2016;1190
+;;;
+;;;
 Pordenone;malattie del sistema respiratorio;2015;307
 Pordenone;malattie del sistema respiratorio;2016;248
 Pordenone;malattie del sistema respiratorio;2017;304
-Friuli-Venezia Giulia;malattie dell'apparato digerente;2015;610
-Friuli-Venezia Giulia;malattie dell'apparato digerente;2016;582
+;;;
+;;;
 Pordenone;malattie dell'apparato digerente;2015;119
 Pordenone;malattie dell'apparato digerente;2016;123
 Pordenone;malattie dell'apparato digerente;2017;114
-Friuli-Venezia Giulia;malattie della cute e del tessuto sottocutaneo;2015;35
-Friuli-Venezia Giulia;malattie della cute e del tessuto sottocutaneo;2016;24
+;;;
+;;;
 Pordenone;malattie della cute e del tessuto sottocutaneo;2015;8
 Pordenone;malattie della cute e del tessuto sottocutaneo;2016;5
 Pordenone;malattie della cute e del tessuto sottocutaneo;2017;8
-Friuli-Venezia Giulia;malattie del sistema osteomuscolare e del tessuto connettivo;2015;94
-Friuli-Venezia Giulia;malattie del sistema osteomuscolare e del tessuto connettivo;2016;72
+;;;
+;;;
 Pordenone;malattie del sistema osteomuscolare e del tessuto connettivo;2015;13
 Pordenone;malattie del sistema osteomuscolare e del tessuto connettivo;2016;17
 Pordenone;malattie del sistema osteomuscolare e del tessuto connettivo;2017;13
-Friuli-Venezia Giulia;alcune condizioni morbose che hanno origine nel periodo perinatale;2015;9
-Friuli-Venezia Giulia;alcune condizioni morbose che hanno origine nel periodo perinatale;2016;13
+;;;
+;;;
 Pordenone;alcune condizioni morbose che hanno origine nel periodo perinatale;2015;1
 Pordenone;alcune condizioni morbose che hanno origine nel periodo perinatale;2016;3
 Pordenone;alcune condizioni morbose che hanno origine nel periodo perinatale;2017;5
-Friuli-Venezia Giulia;malformazioni congenite ed anomalie cromosomiche;2015;28
-Friuli-Venezia Giulia;malformazioni congenite ed anomalie cromosomiche;2016;22
+;;;
+;;;
 Pordenone;malformazioni congenite ed anomalie cromosomiche;2015;7
 Pordenone;malformazioni congenite ed anomalie cromosomiche;2016;5
 Pordenone;malformazioni congenite ed anomalie cromosomiche;2017;9
-Friuli-Venezia Giulia;"sintomi; segni; risultati anomali e cause mal definite";2015;235
-Friuli-Venezia Giulia;"sintomi; segni; risultati anomali e cause mal definite";2016;229
+;;;
+;;;
 Pordenone;"sintomi; segni; risultati anomali e cause mal definite";2015;30
 Pordenone;"sintomi; segni; risultati anomali e cause mal definite";2016;25
 Pordenone;"sintomi; segni; risultati anomali e cause mal definite";2017;39
-Friuli-Venezia Giulia;cause esterne di traumatismo e avvelenamento;2015;514
-Friuli-Venezia Giulia;cause esterne di traumatismo e avvelenamento;2016;511
+;;;
+;;;
 Pordenone;cause esterne di traumatismo e avvelenamento;2015;122
 Pordenone;cause esterne di traumatismo e avvelenamento;2016;108
 Pordenone;cause esterne di traumatismo e avvelenamento;2017;114
@@ -1851,32 +1851,6 @@ Modena;"sintomi; segni; risultati anomali e cause mal definite";2017;61
 Modena;cause esterne di traumatismo e avvelenamento;2015;262
 Modena;cause esterne di traumatismo e avvelenamento;2016;240
 Modena;cause esterne di traumatismo e avvelenamento;2017;269
-Trentino Alto Adige / Südtirol;alcune malattie infettive e parassitarie;2015;194
-Trentino Alto Adige / Südtirol;alcune malattie infettive e parassitarie;2016;139
-Trentino Alto Adige / Südtirol;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;36
-Trentino Alto Adige / Südtirol;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;30
-Trentino Alto Adige / Südtirol;disturbi psichici e comportamentali;2015;314
-Trentino Alto Adige / Südtirol;disturbi psichici e comportamentali;2016;382
-Trentino Alto Adige / Südtirol;malattie del sistema nervoso e degli organi di senso;2015;460
-Trentino Alto Adige / Südtirol;malattie del sistema nervoso e degli organi di senso;2016;513
-Trentino Alto Adige / Südtirol;malattie del sistema circolatorio;2015;3437
-Trentino Alto Adige / Südtirol;malattie del sistema circolatorio;2016;3146
-Trentino Alto Adige / Südtirol;malattie del sistema respiratorio;2015;693
-Trentino Alto Adige / Südtirol;malattie del sistema respiratorio;2016;666
-Trentino Alto Adige / Südtirol;malattie dell'apparato digerente;2015;327
-Trentino Alto Adige / Südtirol;malattie dell'apparato digerente;2016;353
-Trentino Alto Adige / Südtirol;malattie della cute e del tessuto sottocutaneo;2015;6
-Trentino Alto Adige / Südtirol;malattie della cute e del tessuto sottocutaneo;2016;16
-Trentino Alto Adige / Südtirol;malattie del sistema osteomuscolare e del tessuto connettivo;2015;46
-Trentino Alto Adige / Südtirol;malattie del sistema osteomuscolare e del tessuto connettivo;2016;77
-Trentino Alto Adige / Südtirol;alcune condizioni morbose che hanno origine nel periodo perinatale;2015;12
-Trentino Alto Adige / Südtirol;alcune condizioni morbose che hanno origine nel periodo perinatale;2016;21
-Trentino Alto Adige / Südtirol;malformazioni congenite ed anomalie cromosomiche;2015;32
-Trentino Alto Adige / Südtirol;malformazioni congenite ed anomalie cromosomiche;2016;27
-Trentino Alto Adige / Südtirol;"sintomi; segni; risultati anomali e cause mal definite";2015;216
-Trentino Alto Adige / Südtirol;"sintomi; segni; risultati anomali e cause mal definite";2016;168
-Trentino Alto Adige / Südtirol;cause esterne di traumatismo e avvelenamento;2015;444
-Trentino Alto Adige / Südtirol;cause esterne di traumatismo e avvelenamento;2016;440
 Bologna;alcune malattie infettive e parassitarie;2015;405
 Bologna;alcune malattie infettive e parassitarie;2016;338
 Bologna;alcune malattie infettive e parassitarie;2017;336
@@ -2087,46 +2061,46 @@ Rimini;"sintomi; segni; risultati anomali e cause mal definite";2017;57
 Rimini;cause esterne di traumatismo e avvelenamento;2015;126
 Rimini;cause esterne di traumatismo e avvelenamento;2016;119
 Rimini;cause esterne di traumatismo e avvelenamento;2017;132
-Massa-Carrara;alcune malattie infettive e parassitarie;2015;112
-Massa-Carrara;alcune malattie infettive e parassitarie;2016;57
+Massa Carrara;alcune malattie infettive e parassitarie;2015;112
+Massa Carrara;alcune malattie infettive e parassitarie;2016;57
 Massa Carrara;alcune malattie infettive e parassitarie;2017;69
 Massa Carrara;tumori;2015;707
 Massa Carrara;tumori;2016;695
 Massa Carrara;tumori;2017;693
-Massa-Carrara;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;9
-Massa-Carrara;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;6
+Massa Carrara;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;9
+Massa Carrara;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;6
 Massa Carrara;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2017;8
-Massa-Carrara;disturbi psichici e comportamentali;2015;82
-Massa-Carrara;disturbi psichici e comportamentali;2016;82
+Massa Carrara;disturbi psichici e comportamentali;2015;82
+Massa Carrara;disturbi psichici e comportamentali;2016;82
 Massa Carrara;disturbi psichici e comportamentali;2017;84
-Massa-Carrara;malattie del sistema nervoso e degli organi di senso;2015;120
-Massa-Carrara;malattie del sistema nervoso e degli organi di senso;2016;119
+Massa Carrara;malattie del sistema nervoso e degli organi di senso;2015;120
+Massa Carrara;malattie del sistema nervoso e degli organi di senso;2016;119
 Massa Carrara;malattie del sistema nervoso e degli organi di senso;2017;105
-Massa-Carrara;malattie del sistema circolatorio;2015;1021
-Massa-Carrara;malattie del sistema circolatorio;2016;933
+Massa Carrara;malattie del sistema circolatorio;2015;1021
+Massa Carrara;malattie del sistema circolatorio;2016;933
 Massa Carrara;malattie del sistema circolatorio;2017;1010
-Massa-Carrara;malattie del sistema respiratorio;2015;212
-Massa-Carrara;malattie del sistema respiratorio;2016;194
+Massa Carrara;malattie del sistema respiratorio;2015;212
+Massa Carrara;malattie del sistema respiratorio;2016;194
 Massa Carrara;malattie del sistema respiratorio;2017;213
-Massa-Carrara;malattie dell'apparato digerente;2015;94
-Massa-Carrara;malattie dell'apparato digerente;2016;98
+Massa Carrara;malattie dell'apparato digerente;2015;94
+Massa Carrara;malattie dell'apparato digerente;2016;98
 Massa Carrara;malattie dell'apparato digerente;2017;94
-Massa-Carrara;malattie della cute e del tessuto sottocutaneo;2015;3
-Massa-Carrara;malattie della cute e del tessuto sottocutaneo;2016;8
+Massa Carrara;malattie della cute e del tessuto sottocutaneo;2015;3
+Massa Carrara;malattie della cute e del tessuto sottocutaneo;2016;8
 Massa Carrara;malattie della cute e del tessuto sottocutaneo;2017;9
-Massa-Carrara;malattie del sistema osteomuscolare e del tessuto connettivo;2015;17
-Massa-Carrara;malattie del sistema osteomuscolare e del tessuto connettivo;2016;11
+Massa Carrara;malattie del sistema osteomuscolare e del tessuto connettivo;2015;17
+Massa Carrara;malattie del sistema osteomuscolare e del tessuto connettivo;2016;11
 Massa Carrara;malattie del sistema osteomuscolare e del tessuto connettivo;2017;20
-Massa-Carrara;alcune condizioni morbose che hanno origine nel periodo perinatale;2016;2
+Massa Carrara;alcune condizioni morbose che hanno origine nel periodo perinatale;2016;2
 Massa Carrara;alcune condizioni morbose che hanno origine nel periodo perinatale;2017;3
-Massa-Carrara;malformazioni congenite ed anomalie cromosomiche;2015;7
-Massa-Carrara;malformazioni congenite ed anomalie cromosomiche;2016;6
+Massa Carrara;malformazioni congenite ed anomalie cromosomiche;2015;7
+Massa Carrara;malformazioni congenite ed anomalie cromosomiche;2016;6
 Massa Carrara;malformazioni congenite ed anomalie cromosomiche;2017;5
-Massa-Carrara;"sintomi; segni; risultati anomali e cause mal definite";2015;86
-Massa-Carrara;"sintomi; segni; risultati anomali e cause mal definite";2016;92
+Massa Carrara;"sintomi; segni; risultati anomali e cause mal definite";2015;86
+Massa Carrara;"sintomi; segni; risultati anomali e cause mal definite";2016;92
 Massa Carrara;"sintomi; segni; risultati anomali e cause mal definite";2017;72
-Massa-Carrara;cause esterne di traumatismo e avvelenamento;2015;93
-Massa-Carrara;cause esterne di traumatismo e avvelenamento;2016;74
+Massa Carrara;cause esterne di traumatismo e avvelenamento;2015;93
+Massa Carrara;cause esterne di traumatismo e avvelenamento;2016;74
 Massa Carrara;cause esterne di traumatismo e avvelenamento;2017;103
 Lucca;alcune malattie infettive e parassitarie;2015;141
 Lucca;alcune malattie infettive e parassitarie;2016;94
@@ -4537,14 +4511,14 @@ Medio Campidano;cause esterne di traumatismo e avvelenamento;2016;37
 Carbonia-Iglesias;cause esterne di traumatismo e avvelenamento;2015;63
 Carbonia-Iglesias;cause esterne di traumatismo e avvelenamento;2016;49
 Bergamo;"complicazioni della gravidanza; del parto e del puerperio";2017;1
-Valle d'Aosta / Vallée d'Aoste;alcune condizioni morbose che hanno origine nel periodo perinatale;2015;2
-Valle d'Aosta / Vallée d'Aoste;alcune condizioni morbose che hanno origine nel periodo perinatale;2016;3
+Aostra;alcune condizioni morbose che hanno origine nel periodo perinatale;2015;2
+Aostra;alcune condizioni morbose che hanno origine nel periodo perinatale;2016;3
 Lodi;malformazioni congenite ed anomalie cromosomiche;2015;5
 Lodi;malformazioni congenite ed anomalie cromosomiche;2016;1
 Lodi;malformazioni congenite ed anomalie cromosomiche;2017;4
 Brescia;"complicazioni della gravidanza; del parto e del puerperio";2015;1
-Bolzano / Bozen;malattie della cute e del tessuto sottocutaneo;2015;2
-Bolzano / Bozen;malattie della cute e del tessuto sottocutaneo;2016;8
+Bolzano;malattie della cute e del tessuto sottocutaneo;2015;2
+Bolzano;malattie della cute e del tessuto sottocutaneo;2016;8
 Bolzano;malattie della cute e del tessuto sottocutaneo;2017;3
 Nuoro;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2015;7
 Nuoro;malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario;2016;12
