@@ -25,7 +25,7 @@
 24;Benin;BEN;Western Africa;Sub-Saharan Africa;Africa
 25;Bermuda;BMU;Northern America;;North America
 26;Bhutan;BTN;Southern Asia;;Asia
-27;Bolivia (Plurinational State of);BOL;South America;Latin America and the Caribbean;South America
+27;Bolivia;BOL;South America;Latin America and the Caribbean;South America
 28;Bonaire, Sint Eustatius and Saba;BES;Caribbean;Latin America and the Caribbean;North America
 29;Bosnia and Herzegovina;BIH;Southern Europe;;Europe
 30;Botswana;BWA;Southern Africa;Sub-Saharan Africa;Africa
@@ -33,7 +33,7 @@
 32;Brazil;BRA;South America;Latin America and the Caribbean;South America
 33;British Indian Ocean Territory;IOT;Eastern Africa;Sub-Saharan Africa;Africa
 34;British Virgin Islands;VGB;Caribbean;Latin America and the Caribbean;North America
-35;Brunei Darussalam;BRN;South-eastern Asia;;Asia
+35;Brunei;BRN;South-eastern Asia;;Asia
 36;Bulgaria;BGR;Eastern Europe;;Europe
 37;Burkina Faso;BFA;Western Africa;Sub-Saharan Africa;Africa
 38;Burundi;BDI;Eastern Africa;Sub-Saharan Africa;Africa
@@ -55,13 +55,13 @@
 54;Congo;COG;Middle Africa;Sub-Saharan Africa;Africa
 55;Cook Islands;COK;Polynesia;;Oceania
 56;Costa Rica;CRI;Central America;Latin America and the Caribbean;North America
-57;Côte d’Ivoire;CIV;Western Africa;Sub-Saharan Africa;Africa
+57;Cote d’Ivoire;CIV;Western Africa;Sub-Saharan Africa;Africa
 58;Croatia;HRV;Southern Europe;;Europe
 59;Cuba;CUB;Caribbean;Latin America and the Caribbean;North America
 60;Curaçao;CUW;Caribbean;Latin America and the Caribbean;North America
 61;Cyprus;CYP;Western Asia;;Asia
 62;Czechia;CZE;Eastern Europe;;Europe
-63;Democratic People's Republic of Korea;PRK;Eastern Asia;;Asia
+63;Korea, South;PRK;Eastern Asia;;Asia
 64;Democratic Republic of the Congo;COD;Middle Africa;Sub-Saharan Africa;Africa
 65;Denmark;DNK;Northern Europe;;Europe
 66;Djibouti;DJI;Eastern Africa;Sub-Saharan Africa;Africa
@@ -107,7 +107,7 @@
 106;Iceland;ISL;Northern Europe;;Europe
 107;India;IND;Southern Asia;;Asia
 108;Indonesia;IDN;South-eastern Asia;;Asia
-109;Iran (Islamic Republic of);IRN;Southern Asia;;Asia
+109;Iran;IRN;Southern Asia;;Asia
 110;Iraq;IRQ;Western Asia;;Asia
 111;Ireland;IRL;Northern Europe;;Europe
 112;Isle of Man;IMN;Northern Europe;;Europe
@@ -182,7 +182,7 @@
 181;Republic of Moldova;MDA;Eastern Europe;;Europe
 182;Réunion;REU;Eastern Africa;Sub-Saharan Africa;Africa
 183;Romania;ROU;Eastern Europe;;Europe
-184;Russian Federation;RUS;Eastern Europe;;Europe
+184;Russia;RUS;Eastern Europe;;Europe
 185;Rwanda;RWA;Eastern Africa;Sub-Saharan Africa;Africa
 186;Saint Barthélemy;BLM;Caribbean;Latin America and the Caribbean;North America
 187;Saint Helena;SHN;Western Africa;Sub-Saharan Africa;Africa
@@ -233,7 +233,7 @@
 232;Uganda;UGA;Eastern Africa;Sub-Saharan Africa;Africa
 233;Ukraine;UKR;Eastern Europe;;Europe
 234;United Arab Emirates;ARE;Western Asia;;Asia
-235;United Kingdom of Great Britain and Northern Ireland;GBR;Northern Europe;;Europe
+235;United Kingdom;GBR;Northern Europe;;Europe
 236;United Republic of Tanzania;TZA;Eastern Africa;Sub-Saharan Africa;Africa
 237;United States Minor Outlying Islands;UMI;Micronesia;;Oceania
 238;US;USA;Northern America;;North America
@@ -242,7 +242,7 @@
 241;Uzbekistan;UZB;Central Asia;;Asia
 242;Vanuatu;VUT;Melanesia;;Oceania
 243;Venezuela;VEN;South America;Latin America and the Caribbean;South America
-244;Viet Nam;VNM;South-eastern Asia;;Asia
+244;Vietnam;VNM;South-eastern Asia;;Asia
 245;Wallis and Futuna Islands;WLF;Polynesia;;Oceania
 246;Western Sahara;ESH;Northern Africa;;Africa
 247;Yemen;YEM;Western Asia;;Asia
